@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.btn {
+  background-color: rgb(209, 186, 186);
+  color: black;
+  font-size: 50px;
+  padding: 0vw;
+  margin: 50px;
+  width: 20vw;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  gap: 20px;
+}
+.main{
+  color: white;
+  font-size: 85px;
+}
